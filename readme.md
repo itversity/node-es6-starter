@@ -1,6 +1,6 @@
 # Node Starter Template for ES6
 
-## Requirements: 
+## Pre-requisites: 
 
 `node 8+`
 
