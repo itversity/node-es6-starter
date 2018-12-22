@@ -1,0 +1,16 @@
+{
+  "name": "Node ES6 Starter Template",
+  "version": "1.0.0",
+  "description": "Node ES6 Starter Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Koushik M L N",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/register": "^7.0.0"
+  }
+}
